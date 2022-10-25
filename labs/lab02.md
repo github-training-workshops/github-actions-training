@@ -1,5 +1,5 @@
 # 2 - Workflow Syntax
-In this lab you will update the workflow syntax.
+In this lab you will update the workflow syntax..
 > Duration: 5-10 minutes
 
 References: 
